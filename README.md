@@ -9,6 +9,7 @@ I work on back-end stuff -- Python, FastAPI, SQLAlchemy.
   <li>VS Code</li>
   <li>Python, FastAPI</li>
   <li>SQLAlchemy, PostgreSQL</li>
+  <li>PyTest</li>
 </ul>
 
 ## A Bit About Me
