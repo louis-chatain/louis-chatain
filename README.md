@@ -8,7 +8,7 @@ I work on back-end stuff -- Python, FastAPI, SQLAlchemy.
 <ul>
   <li>VS Code</li>
   <li>Python, FastAPI</li>
-  <li>SQLAlchemy, PostgreSQL</li>
+  <li>SQLAlchemy, PostgreSQL,  Alembic</li>
   <li>PyTest</li>
 </ul>
 
